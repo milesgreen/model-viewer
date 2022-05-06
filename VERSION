@@ -1,0 +1,9 @@
+commit f085bc1d2f46b851b95656713ec0b8ae9bbd9649
+Author: Emmett Lalish <elalish@google.com>
+Date:   Fri May 6 16:17:23 2022 -0700
+
+    update baked shadow criteria (#3431)
+    
+    * update baked shadow criteria
+    
+    * fix memory leak
